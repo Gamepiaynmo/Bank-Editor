@@ -338,3 +338,7 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+Bank\ Editor/.fsbcache
+Bank\ Editor/GeneratedFiles
+Bank\ Editor/*.dll
